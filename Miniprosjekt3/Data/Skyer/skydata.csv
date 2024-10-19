@@ -1,0 +1,7 @@
+Skytype,Optisk tykkelse,Reflektans,Langbølget strålefanging
+Cumulus,0.9,0.8,0.3
+Cirrus,0.1,0.2,0.8
+Stratus,0.7,0.7,0.4
+Altostratus,0.5,0.6,0.5
+Nimbostratus,0.8,0.75,0.6
+Altocumulus,0.6,0.65,0.5
