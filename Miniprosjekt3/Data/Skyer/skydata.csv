@@ -1,4 +1,4 @@
-Skytype,Optisk tykkelse,Reflektans,Langbølget strålefanging
+Skytype,Optisk tykkelse,Albedo,Langbølget strålefanging
 Cumulus,0.9,0.8,0.3
 Cirrus,0.1,0.2,0.8
 Stratus,0.7,0.7,0.4
